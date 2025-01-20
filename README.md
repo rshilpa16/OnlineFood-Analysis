@@ -17,7 +17,7 @@ This dashboard helps the Online Food services to understand their customers bett
         
 # Snapshot of Dashboard (Excel)
 
-![image](https://github.com/user-attachments/assets/e77d8f91-f0cf-4c24-837b-f0c4fe41e15c)
+![image](https://github.com/user-attachments/assets/4af2dc3d-5918-48b2-bc93-e2f60f1965eb)
 
 
 # Insights
