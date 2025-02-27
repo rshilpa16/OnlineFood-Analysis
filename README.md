@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard helps the Online Food services to understand their customers better. It helps them to know if their customers are satisfied with their services through different feedback, age and occupation. 
+This dashboard helps the Online Food services to understand the customers better. It helps to know if their customers are satisfied with their services through different feedback, age and occupation. 
 
 ### Steps followed 
 
